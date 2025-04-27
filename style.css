@@ -1,0 +1,84 @@
+
+.navbar-brand {
+    font-weight: bold;
+  }
+  .btn-success {
+    background-color: #4CAF4F;
+    border: none;
+  }
+  .nav-item {
+    margin-right: 40px;
+    
+  }
+  .btn-success:hover {
+    background-color:  #4CAF4F;
+  }
+  
+  .hero-section {
+    background-color: #e3e7ec; 
+  }
+  
+  .main-heading {
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .sub-heading {
+    color:  #4CAF4F;
+    font-size: 48px;
+    margin-top: 0;
+  }
+  
+  .message {
+    margin-top: 20px;
+    color: #555;
+    font-size: small;
+  }
+  
+
+  .btn-success {
+    background-color: #4CAF4F;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color:#4CAF4F;
+  }
+  .custom-btn {
+    background-color: #4CAF4F; 
+    color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: 0.3s;
+    text-decoration: none;
+  }
+  .custom-btn:hover {
+    background-color: white;
+    color: #4CAF4F;
+    border: 2px solid #4CAF4F;
+  }
+  .custom-btn {
+    background-color: #4CAF4F; 
+    color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: 0.3s;
+    text-decoration: none;
+  }
+  .custom-btn:hover {
+    background-color: white;
+    color:  #28cb8b;
+    border: 2px solid #4CAF4F;
+  }
+  .lead{
+    font-size: 2rem;
+    font-weight: 300;
+    color: #1d1d1e;
+  }
+ .text-area > h2 {
+    font-size: 1.5rem;
+    color: #1d1d1e;
+  }
+ 
